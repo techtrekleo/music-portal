@@ -4,9 +4,9 @@
 const CONFIG = {
     // 主要工具連結
     tools: {
-        audioVisualizer: 'https://audio-visualizer-production.up.railway.app/',
-        youtubeSEO: 'https://youtube-title-seo-production.up.railway.app/',
-        fontEffects: 'https://font-effects-generator-production.up.railway.app/'
+        audioVisualizer: 'http://localhost:5174/',
+        youtubeSEO: 'http://localhost:5175/',
+        fontEffects: 'http://localhost:5176/'
     },
     
     // 頻道和社交連結
